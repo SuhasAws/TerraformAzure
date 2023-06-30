@@ -11,7 +11,7 @@ provider "azurerm" {
   features {}
 
     subscription_id   = "7263089f-accc-497d-b874-d31cf3d0dec4"
-    tenant_id         = "<azure_subscription_tenant_id>"
+    tenant_id         = "5e0fd201-009a-46c0-bbb9-a2f273190dce"
 }
 
 resource "azurerm_resource_group" "rg" {
