@@ -12,7 +12,7 @@ provider "azurerm" {
 
   subscription_id   = "7263089f-accc-497d-b874-d31cf3d0dec4"
   tenant_id         = "5e0fd201-009a-46c0-bbb9-a2f273190dce"
-  client_id         = "suhas.deepala@cloudexpertsguru.com"
+  client_id         = "suhas.deepala"
   client_secret     = "Drk@69275"
 
 }
